@@ -1,7 +1,9 @@
 # :crown: Hi guys I'am Gabriel :crown:
 
+
 ## :chicken: Who am I?
 -Backend developer and frontend web mobile.
+
 
 ## :iphone: Technology
 
